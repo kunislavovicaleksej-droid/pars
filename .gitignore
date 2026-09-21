@@ -1,0 +1,5 @@
+.env
+history.json
+posted_topics.json
+__pycache__/
+*.pyc
