@@ -83,7 +83,13 @@ RSS_URLS = [
     'https://www.novinky.cz/rss',
     'https://420on.cz/rss',
     'https://www.seznamzpravy.cz/rss',
-    'https://servis.idnes.cz/rss.aspx?c=zpravodaj'
+    'https://servis.idnes.cz/rss.aspx?c=zpravodaj',
+    # Новые ленты — адреса не удалось на 100% подтвердить заранее,
+    # если после первого запуска в логе будет "Ошибка при обработке ленты"
+    # для одной из них, значит у сайта другой путь к RSS или его нет вовсе.
+    'https://cnn.iprima.cz/rss',
+    'https://tydenikpolicie.cz/feed/',
+    'https://krimi-plzen.cz/feed/'
 ]
 
 HISTORY_FILE = 'history.json'
