@@ -1,15 +1,4 @@
 [
-    "https://czechia-online.cz/cziny-na-svitlo-j-opalennya-turbuyut-cheski-rodyny-najbilshe-za-dva-roky/",
-    "https://tn.nova.cz/zpravodajstvi/clanek/657875-britska-farmarka-vylekala-udajne-teroristy-meli-chystat-utok-na-zakladnu-usa",
-    "https://tn.nova.cz/zpravodajstvi/clanek/657869-kabinu-letadla-zahalil-kour-stroj-nouzove-pristal-tri-lide-skoncili-v-nemocnici",
-    "https://www.novinky.cz/clanek/ekonomika-spd-chce-zpatky-ruskou-ropu-a-plyn-podle-expertu-to-v-evrope-nema-sanci-projit-40599805",
-    "https://www.novinky.cz/clanek/domaci-zpravy-moravskoslezsky-kraj-misto-zahradniku-maji-v-ostravske-nove-vsi-po-tamni-trave-behat-fotbaliste-40599490",
-    "https://www.seznamzpravy.cz/clanek/kultura-orchestr-na-cestach-symfonici-v-usa-zahajili-sezonu-mimo-kennedyho-centrum-316321",
-    "https://www.idnes.cz/zpravy/domaci/ve-stare-boleslavi-si-lide-pripomneli-svateho-vaclava-pribyl-vyzval-ke-smireni.A260928_143633_domaci_tty#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://cnn.iprima.cz/raketa-starship-odstartovala-do-vesmiru-na-obeznou-drahu-ma-vynest-satelity-starlink-522982",
-    "https://cnn.iprima.cz/predjizdel-tramvaj-malem-se-srazil-s-autobusem-plnym-lidi-522980",
-    "https://www.expats.cz/czech-news/article/two-hour-queues-form-for-final-day-of-czech-crown-jewels-display",
-    "https://zpravy.aktualne.cz/zahranici/obleti-sestkrat-zemi-a-vypusti-satelity-muskuv-starship-je-uz-na-orbitu/r~aaa29a612a7911f709ebad337e1b8d0c/",
     "https://zpravy.aktualne.cz/zahranici/rusove-trefili-akademii-ved-zelenskyj-slibuje-odvetu/r~aaa29c64ad89b53e155099f157d814a5/",
     "https://czechia-online.cz/yak-v-ukrayini-kvasyly-kapustu-na-zymu-do-poyavy-holodylnykiv/",
     "https://tn.nova.cz/zpravodajstvi/clanek/657874-odbornici-zjistili-ktera-cisla-vyhravaji-v-loterii-padaji-prekvapive-casto",
@@ -498,5 +487,16 @@
     "https://www.idnes.cz/brno/zpravy/nehoda-srazka-autobusu-oleksovice-policie-obvineni-stihani.A260929_142348_brno-zpravy_zubr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://www.idnes.cz/plzen/zpravy/d5-nehoda-stret-dve-nakladni-vozidla-vrtulnik.A260929_145345_plzen-zpravy_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/dalsi-znama-firma-v-cesku-konci-bata-zavre-zavod-v-dolnim-nemci-jediny-ve-stredni-evrope-523071",
-    "https://cnn.iprima.cz/jak-se-chovat-pri-srazce-se-zveri-kazdy-incident-hlaste-i-kdyz-policie-neprijede-522585"
+    "https://cnn.iprima.cz/jak-se-chovat-pri-srazce-se-zveri-kazdy-incident-hlaste-i-kdyz-policie-neprijede-522585",
+    "https://www.expats.cz/czech-news/article/can-vr-help-save-lives-czech-project-aims-to-train-1-million-in-first-aid",
+    "https://tn.nova.cz/zpravodajstvi/clanek/657964-na-male-deti-u-prahy-nekdo-strilel-profesionalnim-prakem-pouzil-ocelove-kulicky",
+    "https://www.blesk.cz/clanek/zpravy-politika/849216/zestihlovani-statu-podle-barthy-s-babisem-navrhuje-vyhazov-desetiny-uredniku.html",
+    "https://www.blesk.cz/clanek/regiony-plzen/849268/vazna-nehody-na-d5-dalnice-uzavrena-v-obou-smerech-srazily-se-nakladaky.html",
+    "https://www.novinky.cz/clanek/zahranicni-evropa-skola-na-slovensku-kde-vrazdil-zak-resila-problem-uz-v-patek-v-pondeli-tam-byli-psychologove-40599949",
+    "https://www.novinky.cz/clanek/ekonomika-odskodneni-ridicu-vyjde-volkswagen-na-stovky-miliard-korun-40599962",
+    "https://www.novinky.cz/clanek/krimi-divoke-prepadeni-ridicky-na-dalnici-d11-muz-se-ji-vetrel-do-auta-pronasledovala-ho-policie-40599981",
+    "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-soud-vyhovel-brozovi-jeho-odvolanim-z-funkce-dekana-se-bude-znovu-zabyvat-soud-316402",
+    "https://www.idnes.cz/praha/zpravy/skolaci-v-ujezde-se-vrati-do-lavic-vejce-se-podle-reditele-zkazila-az-v-kuchyni.A260929_095104_praha-zpravy_bur#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/praha/zpravy/policie-kvuli-olovu-u-odoleny-vody-proveruje-mozne-poskozeni-zivotniho-prostredi.A260929_152848_praha-zpravy_bur#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://cnn.iprima.cz/neduvera-vlade-klauniada-za-osm-milionu-rypl-si-rajchl-munzar-varoval-pred-rozdavanim-523011"
 ]
