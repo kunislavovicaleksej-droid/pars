@@ -89,7 +89,9 @@ RSS_URLS = [
     # для одной из них, значит у сайта другой путь к RSS или его нет вовсе.
     'https://cnn.iprima.cz/rss',
     'https://tydenikpolicie.cz/feed/',
-    'https://krimi-plzen.cz/feed/'
+    'https://krimi-plzen.cz/feed/',
+    'https://brnenska.drbna.cz/rss/',
+    'https://www.extra.cz/rss'
 ]
 
 HISTORY_FILE = 'history.json'
