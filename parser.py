@@ -313,10 +313,14 @@ def check_news():
                                 
                                 first_line = ai_post.split('\n')[0].replace('<b>', '').replace('</b>', '')
                                 posted_topics.append(first_line)
-                                save_json(TOPICS_FILE, posted_topics[-40:]) 
-                        
-                        history.append(link)
-                        new_posts_found = True
+                                save_json(TOPICS_FILE, posted_topics[-40:])
+                                history.append(link)
+                                new_posts_found = True
+                            else:
+                                print(f"⚠️ Groq не ответил (лимиты исчерпаны на всех ключах) — попробую эту статью на следующем прогоне.")
+                        else:
+                            history.append(link)
+                            new_posts_found = True
                         time.sleep(3)
         except Exception as e:
             print(f"Ошибка при обработке ленты {rss_url}: {e}")
