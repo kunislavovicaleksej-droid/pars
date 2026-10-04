@@ -9,10 +9,17 @@ on:
 permissions:
   contents: write
 
+# Если предыдущий запуск почему-то ещё выполняется, когда наступает время
+# следующего по расписанию — не запускаем второй параллельно (это могло
+# приводить к конфликтам при коммите истории), просто пропускаем это срабатывание.
+concurrency:
+  group: rss-parser
+  cancel-in-progress: false
+
 jobs:
   run-parser:
     runs-on: ubuntu-latest
-    timeout-minutes: 4       # страховка: не даём одному запуску залипнуть дольше цикла
+    timeout-minutes: 6       # запас сверх внутреннего 3-минутного бюджета скрипта
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
