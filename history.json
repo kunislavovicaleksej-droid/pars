@@ -1,15 +1,4 @@
 [
-    "https://www.blesk.cz/clanek/zpravy-krimi/849532/muz-z-krasne-lipy-visel-hlavou-dolu-ze-stromu-ho-sundavali-hasici.html",
-    "https://www.blesk.cz/clanek/zpravy-epicentrum/849545/dominator-opet-ostre-o-nhl-oveckin-na-lede-sundejte-ho-jste-spolupachatele-valky.html",
-    "https://www.novinky.cz/clanek/domaci-zpravy-jihomoravsky-kraj-zajemce-stahl-zamer-stavby-komercniho-parku-nedaleko-krizeni-dalnic-v-brne-40600505",
-    "https://www.idnes.cz/karlovy-vary/zpravy/policie-kradez-porusovani-domovni-svobody-struzna-bochov.A261002_130341_vary-zpravy_pkz#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://cnn.iprima.cz/na-smichove-zapalil-luxusni-rolls-royce-a-zmizel-policie-po-zhari-patra-523363",
-    "https://www.novinky.cz/clanek/cestovani-klaster-v-plasich-uz-zase-laka-navstevniky-na-obri-hodinovy-stroj-40600400",
-    "https://www.novinky.cz/clanek/kultura-hudba-banger-human-zoo-startuje-krtem-soundtracku-romana-holeho-40600453",
-    "https://www.seznamzpravy.cz/clanek/zahranicni-snazite-se-vyvolat-konflikt-mezi-korejemi-obvinil-soul-ukrajince-316670",
-    "https://www.idnes.cz/zpravy/zahranicni/sacharovova-cena-nayib-bukele-frakce-europarlamentu.A261002_124230_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://zpravy.aktualne.cz/zahranici/trump-konzultoval-utok-na-venezuelu-s-chatbotem-grok-od-muskovy-ai/r~aaa29c5b9aaef7bdb62673667f60ad2d/",
-    "https://zpravy.aktualne.cz/zahranici/prezident-pavel-i-premier-babis-uz-jsou-v-ankare-na-veceri-pujdou-oba/r~aaa2955328822cb90e067f9f9feafb83/",
     "https://czechia-online.cz/yevropejski-richky-perezhyly-vlitku-najserjoznishe-litnye-malovoddya-za-ostanni-34-roky/",
     "https://tn.nova.cz/zpravodajstvi/clanek/658171-nocni-pozar-domu-v-liberci-neprezil-jeden-clovek-dalsi-tri-se-zranili",
     "https://tn.nova.cz/zpravodajstvi/clanek/658175-dalsi-dopravni-zasah-pro-brno-na-nekolik-tydnu-skonci-provoz-ve-dvou-tunelech",
@@ -498,5 +487,16 @@
     "https://www.idnes.cz/zpravy/zahranicni/americka-fbi-zatkla-zenu-obvinenou-ze-spionaze-pro-cinu.A261005_064222_zahranicni_iluj#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://www.idnes.cz/zpravy/zahranicni/usa-po-incidentu-stahly-vsechny-sve-bombardery-z-britske-letecke-zakladny.A261005_063545_zahranicni_iluj#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/konec-vecneho-promptovani-openai-ukazala-agenty-dots-kteri-mysli-za-vas-523197",
-    "https://cnn.iprima.cz/show-time/hrusinsky-tajil-rozvod-dlouhych-25-let-po-rakovine-bojuje-s-dalsi-vaznou-nemoci-523354"
+    "https://cnn.iprima.cz/show-time/hrusinsky-tajil-rozvod-dlouhych-25-let-po-rakovine-bojuje-s-dalsi-vaznou-nemoci-523354",
+    "https://www.expats.cz/czech-news/article/czechia-may-ease-visa-rules-for-belarusians-with-close-family-ties",
+    "https://magazin.aktualne.cz/jedli-jen-maso-vejce-a-maslo-zhubli-pak-ale-vedci-narazili-na-problem-ktery-neni-videt-hned/r~aaa29143a40e948c58f6cfb4c6e213f6/",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658318-predpoved-pocasi-na-pondeli-5-rijna",
+    "https://tn.nova.cz/zpravodajstvi/clanek/656093-tri-vzorove-domy-tri-podoby-moduloveho-bydleni",
+    "https://ct24.ceskatelevize.cz/clanek/svet/trump-neprosadil-radu-svych-kandidatu-i-tak-v-primarkach-ukazal-silu-378167",
+    "https://www.novinky.cz/clanek/kultura-karel-cudlin-fotil-prezidenta-havla-na-hrade-h-i-hradecku-40599516",
+    "https://www.novinky.cz/clanek/zahranicni-afd-poprve-dosahla-v-pruzkumu-30procentni-hranice-40600678",
+    "https://www.novinky.cz/clanek/bydleni-velky-spolecny-prostor-i-prijemne-zasivarny-tento-byt-dava-kazdemu-to-co-zrovna-potrebuje-40600301",
+    "https://www.seznamzpravy.cz/clanek/porady-stastne-pondeli-jindricha-sidla-11-sezona-stastne-pondeli-levnejsi-benzin-i-hypoteky-babis-uz-splnil-co-nam-slibil-316752",
+    "https://www.seznamzpravy.cz/clanek/ekonomika-firmy-tesla-ridi-sama-a-prazske-zaludnosti-zvlada-za-vysledek-ale-presto-neruci-316357",
+    "https://www.idnes.cz/zpravy/domaci/dozimetr-soud-dpp-marvanova-svedkyne.A261004_212848_domaci_mul#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
 ]
