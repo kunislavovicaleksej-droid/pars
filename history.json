@@ -1,14 +1,4 @@
 [
-    "https://zpravy.aktualne.cz/ekonomika/inflace-v-cesku-zrychluje-ceny-tahnou-vzhuru-hlavne-drahe-pohonne-hmoty-a-energie/r~aaa297ff5eb2d9d81731fa6c57e6b5e6/",
-    "https://magazin.aktualne.cz/do-patra-domu-na-florenci-dostali-lod-i-karavany-ted-se-mistem-s-podivnym-pribehem-muzete-projit-i-vy/r~aaa293e6ffaa80050626d27d6f814009/",
-    "https://www.blesk.cz/clanek/zpravy-udalosti/849767/zdrazovani-v-cesku-znovu-nabira-tempo-inflace-vyskocila-na-2-5-procenta-co-zene-ceny-nahoru.html",
-    "https://www.blesk.cz/clanek/zpravy-kultura/849766/pianista-peter-bence-zakonci-rok-velkou-show-v-praze-na-podiu-se-neni-kam-schovat-rika-svetova-klavirni-senzace.html",
-    "https://www.novinky.cz/clanek/ekonomika-nemecky-prumysl-dostal-dalsi-ranu-zakazky-se-propadly-mnohem-vic-nez-se-cekalo-40600994",
-    "https://www.novinky.cz/clanek/zahranicni-svet-na-okinawe-zadrzeli-americkeho-vojaka-podezreleho-z-vrazdy-zeny-40600986",
-    "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-zdravotnicka-data-cechu-nabizeli-hackeri-k-prodeji-za-30-tisic-korun-40600918",
-    "https://www.seznamzpravy.cz/clanek/domaci-kauzy-volate-mi-bez-svoleni-lidr-ano-zije-uredne-na-ubytovne-nerekne-proc-316833",
-    "https://www.idnes.cz/zpravy/zahranicni/polsko-vysetrovani-vrazda-seniorky-loupez.A261006_094208_zahranicni_dtt#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://zpravy.aktualne.cz/zahranici/bombardery-nejsou-v-bezpeci-usa-stahly-letouny-z-britanie-boji-se-dlouhych-prstu-teheranu/r~aaa293198fe6b9ad9182d758fbb7b522/",
     "https://magazin.aktualne.cz/kultura/literatura/cesko-je-vic-nez-kafka-a-kundera-pise-nemecky-tisk-pred-veletrhem-ve-frankfurtu/r~aaa2936420a8285a7241faec2bcc2f8e/",
     "https://magazin.aktualne.cz/kultura/literatura/den-pred-vydanim-nove-knihy-zemrel-britsky-autor-bestselleru-a-politik-jeffrey-archer/r~aaa29d62e22d7013426de8cad085428a/",
     "https://czechia-online.cz/novi-pravyla-airbnb-u-chehiyi-mozhut-vplynuty-na-orendodavcziv-i-turystiv/",
@@ -498,5 +488,15 @@
     "https://www.idnes.cz/brno/zpravy/nedovolene-predjizdeni-kamiony-zachranarska-ulicka-policejni-dron.A261007_084611_brno-zpravy_azu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/delat-z-teroristu-obeti-je-absurdni-ministerstvo-sdilelo-vzpominku-na-utok-hamasu-na-izrael-523718",
     "https://tydenikpolicie.cz/ridic-nakladaku-nedal-v-havirove-prednost-autobusu-mhd-sedm-zranenych/",
-    "https://tydenikpolicie.cz/prazsti-policiste-resi-nevhodne-chovani-ve-vlaku-patraji-po-neznamem-muzi/"
+    "https://tydenikpolicie.cz/prazsti-policiste-resi-nevhodne-chovani-ve-vlaku-patraji-po-neznamem-muzi/",
+    "https://www.expats.cz/czech-news/article/czech-railways-promises-changes-after-overcrowding-hits-prague-commuter-trains",
+    "https://sport.aktualne.cz/hokej/fantasticky-hertl-ridil-vyhru-vegas-bodovou-explozi-kulich-pripravil-vitezny-gol/r~aaa29c859662df521b8b15e4a2e319d2/",
+    "https://czechia-online.cz/ukrayinczyam-iz-tymchasovym-zahystom-u-chehiyi-vidkryvayut-shlyah-do-robochoyi-vizy/",
+    "https://pocasi.blesk.cz/clanek/zpravy-pocasi/849832/meteorologove-odhalili-predpoved-do-patku-na-horach-se-objevi-prvky-zimy-hrozi-vichr-i-bourky",
+    "https://www.blesk.cz/clanek/regiony-brno-brno-krimi/849859/nasel-penezenku-a-odevzdal-ji-policii-hleda-ho-gibs-kvuli-svedectvi.html",
+    "https://www.seznamzpravy.cz/clanek/zahranicni-hutiove-zasahli-letiste-v-jemenu-hlasi-se-i-k-utokum-na-saudskou-arabii-316941",
+    "https://www.idnes.cz/zpravy/zahranicni/rusko-vising-cina-zbrojni-zakazky-uzbekistan-rozstrel.A261006_122704_zahranicni_vov#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/zpravy/zahranicni/evropska-unie-komise-clenstvi-kandidati-zkusebni-doba.A261007_092757_zahranicni_dtt#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/zpravy/domaci/ods-chce-mobilizovat-300-miliard-korun-obcanu-pro-fond-narod-sobe.A261007_091515_domaci_kop#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://tydenikpolicie.cz/krajsti-kriminaliste-proveruji-nasilnou-smrt-tricetileteho-muze-ve-dvore-kralove-nad-labem-zadrzeli-podezrelou-osobu/"
 ]
