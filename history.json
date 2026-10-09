@@ -1,14 +1,4 @@
 [
-    "https://czechia-online.cz/u-prazi-policziya-shukaye-svidka-pislya-skargy-pidlitka-na-domagannya-u-poyizdi/",
-    "https://www.idnes.cz/ekonomika/domaci/hlidackovne-chteji-stovky-studentu-vraceji-se-i-skolkovne-ci-sleva-na-studenta.A261007_150330_ekonomika_kris#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://tydenikpolicie.cz/muz-a-zena-meli-dokonale-promysleny-podvod-jak-okradat-stat/",
-    "https://www.blesk.cz/clanek/celebrity-serialy-filmy-kino-a-tv/849895/sport-se-vraci-na-primu-missky-v-rolich-moderatorek.html",
-    "https://volby.blesk.cz/clanek/volby-komunalni-volby/849916/treskuta-debata-blesku-hadka-prazskych-lidru-o-koalice-i-krizi-bydleni-a-zklamani-z-pavla.html",
-    "https://www.blesk.cz/clanek/zpravy-politika/849915/pavel-v-pousti-eva-na-kanarech-a-hradni-mlceni-prileti-k-volbam-na-posledni-chvili.html",
-    "https://www.novinky.cz/clanek/veda-skoly-sest-deti-se-specialnimi-potrebami-v-jedne-tride-zvladnout-to-bez-asistenta-byva-nad-sily-ucitele-40598805",
-    "https://www.seznamzpravy.cz/clanek/domaci-kauzy-hledany-boss-se-nasel-nechal-se-na-dalku-vyslechnout-a-prijel-i-do-ceska-316880",
-    "https://cnn.iprima.cz/sport/sportovni-zpravy-startuji-na-prime-do-hry-vstupuji-kovacova-rosicka-a-slegr-523775",
-    "https://www.idnes.cz/volby/brno/brno-magistrat-koalice-vysvedceni-hodnoceni-znamky-volby.A261007_975028_brno-zpravy_azu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://www.idnes.cz/volby/olomouc/komunalni-volby-2026-olomouc-vysvedceni-radnice-koalice.A261007_975052_olomouc-volby_stk#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/dnesni-putin-vznikl-v-ndr-tady-v-roce-1989-zastavil-demonstranty-a-zadal-vyslani-tanku-523191",
     "https://magazin.aktualne.cz/mysleli-ze-cerna-smrt-skoncila-nova-analyza-dna-ukazala-kudy-se-mor-siril-evropou/r~aaa29eb4b3ecb10d8935743fc1aef8f7/",
@@ -498,5 +488,15 @@
     "https://www.seznamzpravy.cz/clanek/ekonomika-finance-byznys-komodity-dluhopisy-tlacenice-uprostred-barelu-proc-cena-nafty-predbiha-zdrazovani-ropy-316711",
     "https://www.seznamzpravy.cz/clanek/domaci-zivot-v-cesku-valka-o-deti-po-rozvodu-sourozenci-stoji-proti-otci-soud-ceka-na-odbornika-317001",
     "https://www.idnes.cz/zpravy/zahranicni/ukrajinsti-vyjednavaci-jednani-mir-valka-rusko-usa-zelenskyj.A261009_064925_zahranicni_lysa#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/zpravy/zahranicni/nemecka-policie-zadrzela-muze-ktery-pri-kontrole-zbrani-zastrelil-dva-uredniky.A261009_065640_zahranicni_iluj#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
+    "https://www.idnes.cz/zpravy/zahranicni/nemecka-policie-zadrzela-muze-ktery-pri-kontrole-zbrani-zastrelil-dva-uredniky.A261009_065640_zahranicni_iluj#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://zpravy.aktualne.cz/zahranici/agent-imigracniho-uradu-v-new-yorku-postrelil-muze-ktery-jel-v-aute-s-ditetem/r~aaa290d8fea2c7c0a6f45fb7e9b6f3e1/",
+    "https://zpravy.aktualne.cz/zahranici/po-65-letech-chystaji-usa-vojenskou-popravu-jeji-prubeh-bude-mozne-sledovat-online/r~aaa298c253bec0ec8703b9219f556a9b/",
+    "https://magazin.aktualne.cz/kultura/nenechte-si-ujit-na-vychod-od-raje-jako-miniserie-ci-drava-heda-gablerova-v-olomouci/r~aaa29f52c98ba9300b315231430df472/",
+    "https://czechia-online.cz/v-avstriyi-za-dva-misyaczi-zafiksuvaly-ponad-270-zemletrusiv-sejsmology-poyasnyly-shho-vidbuvayetsya/",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658630-predpoved-pocasi-na-patek-9-rijna",
+    "https://www.novinky.cz/clanek/internet-a-pc-ai-pomaha-ai-matematikum-nebo-skodi-openai-zverejnila-dalsi-reseni-obtiznych-prikladu-40601415",
+    "https://www.idnes.cz/zpravy/zahranicni/labouriste-obhajili-v-doplnovacich-volbach-v-londyne-mandat-po-starmerovi.A261009_071251_zahranicni_lysa#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/zpravy/zahranicni/vojenska-poprava-strelce-z-fort-hoodu-bude-prenasena-zive-oznamil-pentagon.A261009_070130_zahranicni_lysa#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://cnn.iprima.cz/za-neucast-u-voleb-by-pavel-v-masarykove-ere-dostal-pokutu-hrozilo-by-mu-i-vezeni-523880",
+    "https://cnn.iprima.cz/pastrnak-v-nhl-zazaril-ctyrmi-body-ridil-vyhru-bostonu-nad-utahem-klapka-poprve-skoroval-523932"
 ]
