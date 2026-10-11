@@ -1,15 +1,4 @@
 [
-    "https://www.idnes.cz/zpravy/zahranicni/donald-trump-usa-bily-dum-katie-zachariova.A261010_073828_zahranicni_pluh#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/volby/senatni-volby-2026-kandiati-souboje.A261009_104900_volby_mul#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/volby/volby-komunalni-senatni-2026-zastupitelstva-senatori.A261009_200022_volby_fohl#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://cnn.iprima.cz/kdo-se-stane-svetovym-vladcem-robotaxi-cesko-zatim-stoji-mimo-ale-chce-to-zmenit-523968",
-    "https://cnn.iprima.cz/zastupitelstva-slozeni-volby-2026-vysledky-zive-523898",
-    "https://cnn.iprima.cz/o-biopotraviny-je-v-cesku-zajem-temer-70-procent-jich-ale-dovazime-522122",
-    "https://www.expats.cz/czech-news/article/prague-4-to-end-free-overnight-parking-as-zone-changes-begin-oct-15",
-    "https://zpravy.aktualne.cz/domaci/exkluzivni-svedectvi-z-maroka-vyprava-prezidenta-pavla-popsala-detaily-desive-nehody/r~aaa29932b73f614cb5716fedb9c75a6f/",
-    "https://zpravy.aktualne.cz/zahranici/trump-oznacil-udeleni-nobelovy-ceny-za-mir-za-ostudne-usa-to-norsku-nezapomenou/r~aaa2951ff92ab0822e46dbb7d279b67b/",
-    "https://tn.nova.cz/zpravodajstvi/clanek/658707-trump-schvalil-zive-vysilani-popravy-majora-vance-je-proti-nebudu-se-na-to-divat",
-    "https://www.blesk.cz/clanek/testy-blesku-potraviny/849949/test-kminu-ze-supermarketu-pesticidy-a-zakazana-latka.html",
     "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-jake-je-tajemstvi-stastneho-trvaleho-manzelstvi-odpovidaji-pary-ktere-jsou-spolu-desitky-let-40600225",
     "https://www.novinky.cz/clanek/krimi-auto-s-policisty-spadlo-z-hlavkova-mostu-do-vltavy-40601836",
     "https://www.novinky.cz/clanek/volby-komunalni-vysledky-voleb-vi-dopredu-tretina-obci-ma-jen-jednu-kandidatku-40601552",
@@ -498,5 +487,16 @@
     "https://www.idnes.cz/zpravy/zahranicni/iran-tvrdi-ze-v-hormuzskem-prulivu-najel-tanker-na-namorni-minu.A261010_210133_zahranicni_tmps#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/pripadu-zneuzivani-davek-pro-uprchliky-pribyva-v-plzni-resi-policie-pres-sedmdesat-podvodu-524020",
     "https://cnn.iprima.cz/sport/colorado-v-zapase-plnem-zvratu-podlehlo-torontu-zacha-golem-prispel-k-dalsi-vyhre-bostonu-524100",
-    "https://ct24.ceskatelevize.cz/clanek/svet/neznamy-projektil-zasahl-tanker-v-hormuzskem-prulivu-posadka-je-v-bezpeci-378451"
+    "https://ct24.ceskatelevize.cz/clanek/svet/neznamy-projektil-zasahl-tanker-v-hormuzskem-prulivu-posadka-je-v-bezpeci-378451",
+    "https://www.expats.cz/czech-news/article/czech-voters-reject-wind-farms-and-waste-plants-in-local-referendums",
+    "https://zpravy.aktualne.cz/domaci/nejrychleji-dodaly-vysledky-obecnich-voleb-miskovice-nejdele-se-cekalo-v-praze-5/r~aaa2995e810944b42fbe03391b0f83ca/",
+    "https://magazin.aktualne.cz/poprava-se-nepovedla-rozsudek-trva-co-s-veznem-ktereho-nezabila-ani-smrtici-injekce/r~aaa29ddf77cce6e101cb7a16e853578b/",
+    "https://zpravy.aktualne.cz/zahranici/bojkot-po-odebrani-akreditaci-usa-vysetruji-pet-televiznich-stanic/r~aaa29db7b9d1b0d825200eaf37945ccf/",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658635-princ-harry-se-zhroutil-odhalil-co-nasledovalo-po-uteku-z-britanie",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658689-prodej-dovolenych-na-leto-2027-startuje-obchodni-reditelka-cestovky-prozradila-jak-usetrit",
+    "https://www.novinky.cz/clanek/bydleni-kdo-koho-vlastne-vychovava-experiment-na-psich-seniorech-vilikovi-a-vitality-40601465",
+    "https://www.seznamzpravy.cz/clanek/zdravi-plus-spalnicky-ockovani-dospeli-317056",
+    "https://www.idnes.cz/volby/babisuv-vysledek-je-neuspech-vystrciluv-odchod-me-nezarmouti-mini-zeman.A261010_204502_volby_maka#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/volby/zlin/komunalni-volby-2026-zlin-koalice-korec-ano-vancura-zlin-21-chalanek-ods.A261011_023822_zlin-volby_stoj#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/volby/prvni-kolo-voleb-skoncilo-posledni-vysledky-dopocitali-po-sedme-na-praze-5.A261011_073750_volby_sahu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
 ]
