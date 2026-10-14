@@ -1,15 +1,4 @@
 [
-    "https://www.idnes.cz/zpravy/mediahub/mirka-spacilova-70-narozeniny.A261012_080206_mediahub_jpl#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/zpravy/zahranicni/studenti-francie-protesty-demonstrace-policie-nasilnosti-rok-1968.A261012_191921_zahranicni_krou#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/zpravy/domaci/moldava-vyskrtnuti-volici-volby-2026-soud.A261012_200016_domaci_krou#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://tydenikpolicie.cz/opily-ridic-vyjel-s-nissanem-na-prostejovsku-ze-silnice/",
-    "https://www.idnes.cz/ekonomika/domaci/mmf-zhorsil-vyhled-ceske-ekonomiky-letos-ceka-rust-1-8-procenta.A261013_040339_ekonomika_air#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.novinky.cz/clanek/krimi-jak-zahnat-srny-od-silnice-policiste-zverejnili-video-40601451",
-    "https://www.blesk.cz/clanek/regiony-praha-praha-zpravy/850300/komunalky-v-praze-celebritam-se-darilo-uspel-michal-novotny-i-milan-antos-do-politiky-vstoupil-ctvrty-okamura.html",
-    "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/849695/lucie-krizkova-23-let-po-vyhre-v-miss-odtajnila-sve-miry.html",
-    "https://www.blesk.cz/clanek/radce-zdravi-a-zivotni-styl-zivotni-styl/849808/nevera-golmana-petra-cecha-adrenalinove-povolani-neni-polehcujici-okolnost-upozornuje-vztahova-koucka.html",
-    "https://www.novinky.cz/clanek/zahranicni-potomek-ceskych-emigrantu-v-usa-prodava-jitrnice-a-burty-knedlikum-rika-zaludecni-bomby-40599892",
-    "https://www.novinky.cz/clanek/zdravi-stale-studene-nohy-a-ruce-mohou-byt-priznakem-vazne-nemoci-casto-vsak-staci-zmenit-navyky-40599210",
     "https://www.seznamzpravy.cz/clanek/domaci-kauzy-sponzor-motoristu-ma-dalsi-cerne-stavby-pykat-muze-syn-z-leteckeho-uradu-316757",
     "https://www.seznamzpravy.cz/clanek/kultura-zemrel-rj-mitte-pernikovy-tata-317709",
     "https://www.novinky.cz/clanek/kultura-zavet-jim-prala-zapadoceska-galerie-predstavuje-dila-z-pozustalosti-zbynka-sekala-40601214",
@@ -498,5 +487,16 @@
     "https://www.blesk.cz/clanek/zpravy-valka-na-ukrajine/702030/online-zasadni-zprava-pro-ukrajinu-nemecko-poskytne-strely-do-systemu-patriot.html",
     "https://www.novinky.cz/clanek/bydleni-ze-zbytku-mramoru-vznikla-podlaha-ktera-dava-bytu-v-sao-paulu-osobity-charakter-40602526",
     "https://www.novinky.cz/clanek/ekonomika-zbyva-uz-jen-par-tydnu-pro-nove-pripojeni-k-elektricke-siti-je-nutne-podepsat-dodatek-40602265",
-    "https://www.seznamzpravy.cz/clanek/zahranicni-prezila-popravu-ameriku-ceka-tezke-rozhodovani-zda-ji-zkusi-zabit-znovu-317162"
+    "https://www.seznamzpravy.cz/clanek/zahranicni-prezila-popravu-ameriku-ceka-tezke-rozhodovani-zda-ji-zkusi-zabit-znovu-317162",
+    "https://www.expats.cz/czech-news/article/czech-sokol-movement-seeks-heritage-status-with-unesco-recognition-next",
+    "https://www.expats.cz/czech-news/article/czech-fighter-pilot-trains-to-fly-spacex-capsule-to-the-space-station",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658989-predpoved-pocasi-na-stredu-14-rijna",
+    "https://ct24.ceskatelevize.cz/clanek/svet/od-laosu-po-dzibuti-cina-buduje-vojenske-zakladny-v-zamori-378532",
+    "https://www.novinky.cz/clanek/ekonomika-dotace-za-covidu-udrzely-zamestnanost-jen-docasne-firmy-ktere-je-cerpaly-pak-vice-propoustely-40602319",
+    "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-tri-nejspolehlivejsi-zabijaci-vztahu-po-ctyricitce-a-zdaleka-nejde-jen-o-intimitu-40601803",
+    "https://www.novinky.cz/clanek/volby-do-poslanecke-snemovny-volebni-pruzkum-stan-vyrazne-posilil-ano-klesa-40602673",
+    "https://www.seznamzpravy.cz/clanek/volby-do-senatu-vzdyt-neni-z-plzne-ano-si-pred-senatnim-finale-vybralo-hlavniho-soupere-317679",
+    "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-mame-zavery-komise-k-viktorce-juchelka-jeji-smrti-slo-zabranit-317733",
+    "https://www.idnes.cz/zpravy/zahranicni/openai-nahravaci-zarizeni-zamestanec-propusten.A261014_065103_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/zpravy/zahranicni/saudska-arabie-ctyri-zranene-raketove-utoky-husiove.A261014_063226_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
 ]
