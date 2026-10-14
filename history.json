@@ -1,14 +1,4 @@
 [
-    "https://www.seznamzpravy.cz/clanek/domaci-kauzy-sponzor-motoristu-ma-dalsi-cerne-stavby-pykat-muze-syn-z-leteckeho-uradu-316757",
-    "https://www.seznamzpravy.cz/clanek/kultura-zemrel-rj-mitte-pernikovy-tata-317709",
-    "https://www.novinky.cz/clanek/kultura-zavet-jim-prala-zapadoceska-galerie-predstavuje-dila-z-pozustalosti-zbynka-sekala-40601214",
-    "https://www.idnes.cz/usti/zpravy/drahomysl-ubytovna-dite-vrazda-hlavni-liceni-soud.A261012_150909_usti-zpravy_grr#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://zpravy.aktualne.cz/ekonomika/auto/zajimavosti/jako-za-sovetskeho-svazu-rusove-sebekriticky-priznavaji-ze-jim-vyroba-aut-nejde/r~aaa294c0af7d54a19e670cadf82a13b5/",
-    "https://magazin.aktualne.cz/sestnact-tydnu-jedli-jen-rostlinnou-stravu-vysledky-prekvapily-ukazaly-mnohem-vic-nez-ubytek-kil/r~aaa29d9d5993a422c62b9e14e5f77d60/",
-    "https://zpravy.aktualne.cz/domaci/druhe-kolo-senatnich-voleb-jak-je-to-s-volicskym-prukazem-i-kde-lide-dostanou-listky/r~aaa294578543c7a491c04afda96c7333/",
-    "https://tn.nova.cz/zpravodajstvi/clanek/658844-odbornici-varuji-pred-priznakem-vazneho-zdravotniho-problemu-lide-ho-prehlizi",
-    "https://www.novinky.cz/clanek/domaci-zpravy-stredocesky-kraj-misto-prejezdu-trati-nadjezd-na-ceste-v-lese-na-nymbursku-ma-vyrust-osmimetrove-monstrum-40598269",
-    "https://www.novinky.cz/clanek/zdravi-sedm-varovnych-signalu-odhalit-zacinajici-demenci-lze-driv-nez-si-myslite-40601614",
     "https://www.novinky.cz/clanek/zahranicni-kdyz-domluva-nestaci-dansti-ucitele-budou-moci-neukaznene-zaky-zklidnit-silou-40602315",
     "https://www.seznamzpravy.cz/clanek/ekonomika-finance-tarif-elektrina-plyn-duchodce-seniori-317688",
     "https://tn.nova.cz/zpravodajstvi/clanek/658878-chmu-predpovedel-nekolik-mrazivych-dni-bude-i-snezit",
@@ -498,5 +488,15 @@
     "https://www.seznamzpravy.cz/clanek/volby-do-senatu-vzdyt-neni-z-plzne-ano-si-pred-senatnim-finale-vybralo-hlavniho-soupere-317679",
     "https://www.seznamzpravy.cz/clanek/porady-ve-stinu-mame-zavery-komise-k-viktorce-juchelka-jeji-smrti-slo-zabranit-317733",
     "https://www.idnes.cz/zpravy/zahranicni/openai-nahravaci-zarizeni-zamestanec-propusten.A261014_065103_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/zpravy/zahranicni/saudska-arabie-ctyri-zranene-raketove-utoky-husiove.A261014_063226_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
+    "https://www.idnes.cz/zpravy/zahranicni/saudska-arabie-ctyri-zranene-raketove-utoky-husiove.A261014_063226_zahranicni_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.expats.cz/czech-news/article/one-third-of-czech-adults-turn-to-ai-for-mental-health-support-survey-finds",
+    "https://video.aktualne.cz/spotlight-video/cesky-masakr-oziva-historik-objasnuje-proc-se-dosud-podarilo-exhumovat-jen-zlomek-tel/r~aaa295708cb458c5cd28adcb531f7bc8/",
+    "https://magazin.aktualne.cz/piji-ho-pro-zdrava-streva-oblibeny-kvaseny-napoj-skryva-sest-kostek-cukru-i-alkohol/r~aaa292efe6352e2aa7247c3449f1bc9e/",
+    "https://tn.nova.cz/zpravodajstvi/clanek/658988-posun-v-pripadu-vrazdy-rappera-tupaca-po-30-letech-padl-prvni-trest",
+    "https://www.blesk.cz/clanek/zpravy-krimi/850267/policie-dopadla-tajemneho-postrikovace-ucitel-kropil-po-skole-moc.html",
+    "https://www.seznamzpravy.cz/clanek/zahranicni-usa-rozbily-sit-ktera-pomahala-severokorejcum-ziskavat-praci-v-it-317810",
+    "https://www.seznamzpravy.cz/clanek/zdravi-plus-mangan-v-tamponech-plasty-ve-vlozkach-jake-menstruacni-pomucky-vybrat-316570",
+    "https://www.idnes.cz/zpravy/domaci/zacina-historicky-proces-s-udajnym-cinskym-agentem.A261013_165345_domaci_stvo#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/karlovy-vary/zpravy/hasici-pozar-pozarni-ulice-karlovy-vary.A261014_061333_vary-zpravy_onbu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/volby/hradec-kralove/v-hradci-kralove-se-rysuje-trojkoalice-s-primatorkou-springerovou-jedna-se-s-ods.A261013_231535_domaci_air#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
 ]
