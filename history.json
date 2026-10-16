@@ -1,15 +1,4 @@
 [
-    "https://tn.nova.cz/zpravodajstvi/clanek/659033-cinska-spionaz-v-cesku-ptejte-se-sinologa-gardase",
-    "https://cnn.iprima.cz/vlada-chysta-cistky-obava-se-papajanovsky-dobri-urednici-se-nemusi-bat-ujistuje-rajchl-524462",
-    "https://tn.nova.cz/zpravodajstvi/clanek/658388-horoskop-na-dnesni-den-15-rijna-kdyz-se-nenechate-vydirat-emocemi-ulevi-se-vam",
-    "https://www.idnes.cz/zpravy/zahranicni/le-penova-francie-prezidentske-volby-studentske-demonstrace-protest.A261014_190611_zahranicni_jans#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/ekonomika/domaci/cla-poplatky-listopad-zasilky-cina-e-shop.A261013_131331_ekonomika_vebe#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.idnes.cz/zpravy/domaci/silnicni-zakon-ministerstvo-dopravy-ridicsky-prukaz-test-pokuta.A261014_194738_domaci_jans#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://tydenikpolicie.cz/policiste-z-moravskoslezske-zasahovky-cvicili-se-svymi-kolegy-z-polska-a-ze-slovenska/",
-    "https://www.idnes.cz/ekonomika/zahranicni/roboti-uz-behaji-zvladnou-i-kung-fu-o-budoucnosti-ale-rozhodnou-jejich-ruce.A261014_122224_eko-zahranicni_ven#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
-    "https://www.novinky.cz/clanek/internet-a-pc-bezpecnost-nakupovala-ale-neplatila-podvodnice-napalila-skoro-padesatku-prodavajicich-40602697",
-    "https://tydenikpolicie.cz/zena-z-breclavska-si-myslela-ze-si-pise-s-pilotem-podvodnikovi-poslala-vice-nez-200-tisic-korun/",
-    "https://tydenikpolicie.cz/mestska-policie-v-lyse-nad-labem-ziskala-od-zachranky-dva-nove-defibrilatory/",
     "https://www.novinky.cz/clanek/domaci-nebyvaly-krok-uredniku-po-oznameni-nebezpecne-jizdy-90lete-ridicky-ji-uz-nepustili-za-volant-40602605",
     "https://www.novinky.cz/clanek/dite-rodina-deti-se-po-par-dnech-bez-mobilu-zacnou-menit-rika-psychiatr-40602572",
     "https://www.seznamzpravy.cz/clanek/domaci-kauzy-nku-juchelkova-poradkyne-zpusobila-rozpoctu-naklady-za-desitky-milionu-317657",
@@ -498,5 +487,16 @@
     "https://www.idnes.cz/zpravy/zahranicni/prvni-den-summitu-eu-skoncil-prezidenti-a-premieri-se-neshodli-zejmena-na-ets.A261016_063300_zahranicni_ijan#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://www.idnes.cz/zpravy/zahranicni/usa-omezily-ukrajine-system-starshield-na-pokyn-bileho-domu-pise-reuters.A261016_062144_zahranicni_ijan#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
     "https://cnn.iprima.cz/reportaz-posledni-bitva-vzplala-v-rude-lhote-voli-kscm-nepretrzite-od-roku-1990-524491",
-    "https://cnn.iprima.cz/show-time/ondrej-sokol-zije-s-o-21-let-mladsi-nikol-v-modernim-dome-na-chalupu-jezdi-do-rodneho-kraje-524458"
+    "https://cnn.iprima.cz/show-time/ondrej-sokol-zije-s-o-21-let-mladsi-nikol-v-modernim-dome-na-chalupu-jezdi-do-rodneho-kraje-524458",
+    "https://www.expats.cz/czech-news/article/czech-arms-companies-invest-czk-55-billion-in-us-supporting-5-000-jobs",
+    "https://magazin.aktualne.cz/kultura/nenechte-si-ujit-dokument-o-kapele-oasis-ci-koncert-uznavaneho-americkeho-jazzmana/r~aaa29648308923e3c42b365cbeeab35d/",
+    "https://zpravy.aktualne.cz/zahranici/pri-strelbe-na-zakladni-skole-v-oregonu-zemrely-tri-deti-a-ucitel/r~aaa29f52a9468ca147293c5879225492/",
+    "https://magazin.aktualne.cz/vyprodano-maji-za-par-minut-obecni-pec-v-usilnem-se-stala-srdcem-vesnice/r~aaa29fa25771e5e1da964007229288d0/",
+    "https://www.blesk.cz/clanek/celebrity-ceske-celebrity/850569/hvezda-ulice-obermaierova-80-uz-je-ze-spitalu-doma-ale-denne-musi-na-vysetreni.html",
+    "https://ct24.ceskatelevize.cz/clanek/domaci/cesko-ceka-druhe-kolo-senatnich-voleb-378633",
+    "https://www.novinky.cz/clanek/lifestyle-sex-vztahy-kazdy-problem-se-da-zvladnout-klicem-k-uspechu-je-prestat-resit-to-co-nemuzete-ovlivnit-40601805",
+    "https://www.novinky.cz/clanek/bydleni-bydleni-v-byvale-prumyslove-hale-jde-to-40602734",
+    "https://www.novinky.cz/clanek/kultura-knihy-nove-knihy-mandausova-winterova-a-kornerova-40602923",
+    "https://www.seznamzpravy.cz/clanek/volby-do-senatu-ano-sazi-na-ceskou-lipu-babisova-nepritele-ma-porazit-zena-ktera-s-nim-vladla-317868",
+    "https://www.idnes.cz/zpravy/zahranicni/cast-kyjeva-se-po-ruskem-utoku-ponorila-do-tmy-pise-server.A261016_064333_zahranicni_balu#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main"
 ]
