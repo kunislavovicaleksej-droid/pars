@@ -1,15 +1,4 @@
 [
-    "https://tn.nova.cz/zpravodajstvi/clanek/659183-zahadny-vypadek-albertu-slevy-plati-pro-vsechny",
-    "https://ct24.ceskatelevize.cz/clanek/svet/usa-omezily-ukrajine-system-starshield-na-pokyn-bileho-domu-pise-reuters-378688",
-    "https://www.novinky.cz/clanek/krimi-mam-te-pobodat-vyhrozoval-zlodej-ostraze-v-prazskem-supermarketu-pak-se-dal-na-utek-40603285",
-    "https://www.novinky.cz/clanek/zahranicni-evropa-fico-predcasne-opustil-bruselsky-summit-odletel-do-srbska-podporit-vucice-40603295",
-    "https://www.novinky.cz/clanek/zahranicni-londyn-schvalil-tezbu-ropy-buenos-aires-se-zlobi-kolem-falkland-opet-roste-napeti-40603215",
-    "https://www.seznamzpravy.cz/clanek/ekonomika-finance-byznys-komodity-dluhopisy-konec-ery-levnych-penez-vitezove-maji-uspory-porazeni-dluhy-318035",
-    "https://www.seznamzpravy.cz/clanek/zahranicni-sirotci-jen-na-papire-korea-posilala-deti-na-zapad-i-proti-vuli-rodicu-318045",
-    "https://zpravy.aktualne.cz/domaci/muzi-hrozi-za-pokus-o-vrazdu-az-vyjimecny-trest-na-zlinsku-loni-unesl-chlapce/r~aaa29bcb2d45748701994852ebc3b0ca/",
-    "https://zpravy.aktualne.cz/galerie-a-videa/vatikan-zverejnil-prvni-fotografie-papeze-lva-xiv-po-operaci/r~aaa29d6c5039753b53378c3dc60bedcd/",
-    "https://czechia-online.cz/premyer-latviyi-zaklykav-yevropejcziv-pozhertvuvaty-ukrayini-vartist-odnogo-pyva-na-rik/",
-    "https://tn.nova.cz/zpravodajstvi/clanek/659174-skok-o-15-stupnu-za-jeden-den-evropu-ceka-teplotni-sok",
     "https://tn.nova.cz/zpravodajstvi/clanek/659187-trump-uz-se-zelenskym-nechce-jednat-vztahy-mezi-lidry-jsou-na-bodu-mrazu",
     "https://tn.nova.cz/zpravodajstvi/clanek/659194-podezrely-z-vloupani-do-domu-chtel-utect-oknem-skocil-hlidce-do-naruce",
     "https://www.blesk.cz/clanek/zpravy-svet/850640/papez-po-odstraneni-casti-plice-kvuli-rakovine-prvni-foto-z-nemocnice-co-odhalili-lekari.html",
@@ -498,5 +487,16 @@
     "https://www.blesk.cz/clanek/zpravy-politika/850648/sef-krnap-si-zalozil-vlastni-asociaci-namestci-ho-usvedcuji-ze-lzi-senator-zada-odvolani.html",
     "https://ct24.ceskatelevize.cz/clanek/domaci/bezpecnostni-rada-statu-probrala-vypadky-proudu-i-navysovani-poctu-vojaku-378844",
     "https://ct24.ceskatelevize.cz/clanek/domaci/senat-cekaji-personalni-sachy-a-uvahy-o-novem-vyboru-378831",
-    "https://ct24.ceskatelevize.cz/clanek/svet/za-tyden-budou-izraelci-volit-parlament-netanjahua-muze-nahradit-eisenkot-378836"
+    "https://ct24.ceskatelevize.cz/clanek/svet/za-tyden-budou-izraelci-volit-parlament-netanjahua-muze-nahradit-eisenkot-378836",
+    "https://www.novinky.cz/clanek/zahranicni-amerika-trump-dal-zostruje-retoriku-proti-ukrajine-40603927",
+    "https://www.novinky.cz/clanek/zahranicni-drama-na-letisti-v-lime-letadlo-zacalo-tesne-pred-startem-horet-cestujici-stihli-airbus-opustit-40603854",
+    "https://www.novinky.cz/clanek/zahranicni-svet-dalsi-tri-tankery-vzplaly-v-hormuzskem-prulivu-po-najeti-do-min-tvrdi-iranske-gardy-40603926",
+    "https://www.seznamzpravy.cz/clanek/zahranicni-trump-zopakoval-ze-se-ukrajina-musi-chtit-dohodnout-s-ruskem-na-ukonceni-valky-318360",
+    "https://www.seznamzpravy.cz/clanek/zahranicni-nigerie-oznamila-prvni-pripad-nakazy-ebolou-u-zeny-ktera-priletela-z-ugandy-318359",
+    "https://www.seznamzpravy.cz/clanek/sport-fotbal-slavia-udelala-prvni-krok-do-nove-ery-v-lize-mistru-trefila-sladkou-remizu-318333",
+    "https://www.idnes.cz/spotrebitel/test/projekt-bazen-2027-zacina-ted-na-podzim-ktery-model-se-hodi-na-rovinu-svah-ci-malou-zahradu.A261006_092656_test_matt#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/ekonomika/domaci/zemedelstvi-chov-skot-krouzek-welfare.A261020_162931_ekonomika_drh#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://www.idnes.cz/zpravy/domaci/na-narodni-tridu-pujdu-ale-dotaci-na-oslavy-nedam-rika-ministr-klempir.A261020_190334_domaci_ichuc#utm_source=rss&utm_medium=feed&utm_campaign=zpravodaj&utm_content=main",
+    "https://cnn.iprima.cz/opozicni-dusno-ve-studiu-kecate-o-slusnem-chovani-grolicha-nechapu-vmetl-pospisil-cincilovi-524970",
+    "https://cnn.iprima.cz/analyza-ohen-v-ulicich-francie-odhaluje-hlubsi-problemy-co-stoji-za-nespokojenosti-lidi-524923"
 ]
