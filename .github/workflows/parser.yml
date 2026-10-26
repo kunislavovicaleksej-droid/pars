@@ -2,16 +2,12 @@ name: RSS Parser
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # каждые 5 минут (минимум для GitHub Actions)
-  workflow_dispatch:         # позволяет запустить вручную кнопкой в GitHub
+    - cron: '*/15 * * * *'   # запуск каждые 15 минут, чтобы очереди успевали очищаться
+  workflow_dispatch:         # запуск вручную
 
-# Нужно, чтобы задача могла закоммитить обновлённые history.json/posted_topics.json
 permissions:
   contents: write
 
-# Если предыдущий запуск почему-то ещё выполняется, когда наступает время
-# следующего по расписанию — не запускаем второй параллельно (это могло
-# приводить к конфликтам при коммите истории), просто пропускаем это срабатывание.
 concurrency:
   group: rss-parser
   cancel-in-progress: false
@@ -19,10 +15,13 @@ concurrency:
 jobs:
   run-parser:
     runs-on: ubuntu-latest
-    timeout-minutes: 6       # запас сверх внутреннего 3-минутного бюджета скрипта
+    timeout-minutes: 15       # запас 15 минут под обновлённый скрипт parser.py
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -47,5 +46,4 @@ jobs:
           for f in history.json posted_topics.json; do
             [ -f "$f" ] && git add "$f"
           done
-          git diff --staged --quiet || git commit -m "chore: update history [skip ci]"
-          git push
+          git diff --staged --quiet || (git commit -m "chore: update history [skip ci]" && git pull --rebase origin main && git push)
