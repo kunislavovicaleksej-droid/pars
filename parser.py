@@ -9,7 +9,7 @@ from openai import OpenAI
 
 try:
     from dotenv import load_dotenv
-    load_dotenv()  # подхватывает .env при локальном запуске
+    load_dotenv()
 except ImportError:
     pass
 
@@ -24,7 +24,6 @@ if not BOT_TOKEN or not GROQ_API_KEYS:
         "❌ Не заданы переменные окружения BOT_TOKEN и/или GROQ_API_KEYS."
     )
 
-# Желаемый приоритет моделей Groq
 PREFERRED_MODELS = [
     'llama-3.3-70b-versatile',
     'llama-3.1-8b-instant',
@@ -45,7 +44,6 @@ def get_groq_client():
 client = get_groq_client()
 
 def get_available_models_for_current_client():
-    """Динамически получает список доступных моделей для текущего ключа."""
     global client
     try:
         models_resp = client.models.list()
@@ -205,7 +203,8 @@ def is_duplicate_news(article_text, posted_topics):
 def get_article_data(url):
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'}
     try:
-        response = requests.get(url, headers=headers, timeout=8)
+        # Строгий таймаут 5 секунд на каждый сайт
+        response = requests.get(url, headers=headers, timeout=5)
         soup = BeautifulSoup(response.content, 'html.parser')
         
         paragraphs = soup.find_all('p')
