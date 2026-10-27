@@ -2,20 +2,20 @@ name: RSS Parser
 
 on:
   schedule:
-    - cron: '*/15 * * * *'   # запуск каждые 15 минут, чтобы очереди успевали очищаться
-  workflow_dispatch:         # запуск вручную
+    - cron: '*/15 * * * *'   # запуск каждые 15 минут
+  workflow_dispatch:         # возможность ручного запуска
 
 permissions:
   contents: write
 
 concurrency:
   group: rss-parser
-  cancel-in-progress: false
+  cancel-in-progress: true    # отменяет застрявшие прошлые запуски
 
 jobs:
   run-parser:
     runs-on: ubuntu-latest
-    timeout-minutes: 15       # запас 15 минут под обновлённый скрипт parser.py
+    timeout-minutes: 15       # жесткий таймаут 15 минут на весь workflow
 
     steps:
       - name: Checkout repo
